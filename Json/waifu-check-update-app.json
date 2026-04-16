@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-Bug fixeds",
+        "force_update": "false",
+        "package_name": "com.bigsoft.waifu.aigirlfriend",
+        "version_code": 1,
+        "version_name": "1.0",
+        "new_package_name": "com.bigsoft.waifu.aigirlfriend"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
