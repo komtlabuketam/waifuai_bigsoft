@@ -20,23 +20,7 @@
           "isEnabled": "true"
         },
         {
-          "name": "native_full_tut_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "inter_tut_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_tut_id",
-          "isEnabled": "true"
-        },
-        {
           "name": "inter_splash_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "banner_splash_id",
           "isEnabled": "true"
         },
         {
@@ -44,19 +28,7 @@
           "isEnabled": "true"
         },
         {
-          "name": "native_full_main_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_main_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "banner_main_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "reward_server_id",
+          "name": "inter_tut_id",
           "isEnabled": "true"
         },
         {
@@ -64,15 +36,67 @@
           "isEnabled": "true"
         },
         {
+          "name": "inter_chat_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "nativefull_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "nativefull_main_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_tut_id",
+          "isEnabled": "true"
+        },
+        {
           "name": "native_language_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_server_id",
+          "name": "nativelapse_home_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_checkgeo_id",
+          "name": "nativelapse_album_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_loading_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_ad_get_coin",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_ad_get_home",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_unlock_theme",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_unlock_message",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_chat",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_language_bg_id",
           "isEnabled": "true"
         }
       ]
