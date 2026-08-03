@@ -98,6 +98,18 @@
         {
           "name": "native_language_bg_id",
           "isEnabled": "true"
+        },
+    {
+          "name": "nativelapse_home_3_create",
+          "isEnabled": "true"
+        },
+	   {
+          "name": "native_intro_1",
+          "isEnabled": "true"
+        },
+   	{
+          "name": "native_intro_2",
+          "isEnabled": "true"
         }
       ]
     }
